@@ -96,7 +96,7 @@ contact_content = """
 <p>We are here to help you with all your RO water purifier needs. Reach out to us using the details below:</p>
 <h2>Contact Information</h2>
 <p><strong>Service Helpline:</strong> <a href="tel:8340452413" style="color:var(--primary); font-weight:bold;">8340452413</a></p>
-<p><strong>Email Address:</strong> <a href="mailto:Deepkakumar77090@gmail.com" style="color:var(--primary);">Deepkakumar77090@gmail.com</a></p>
+<p><strong>Email Address:</strong> <a href="mailto:c23068324@gmail.com" style="color:var(--primary);">c23068324@gmail.com</a></p>
 <p><strong>Service Area:</strong> Delhi NCR (Delhi, Noida, Gurgaon, Ghaziabad, Faridabad)</p>
 <p><strong>Business Address:</strong> P-67, Anuj Vihar, Sankar Vihar, Delhi NCR</p>
 <h2>Working Hours</h2>
